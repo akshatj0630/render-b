@@ -1,3 +1,6 @@
 fastapi
-uvicorn[standard]
+uvicorn
 pymongo
+pydantic
+requests
+loguru
